@@ -22,10 +22,15 @@ Chương trình Java này tính tổng các phần tử trong một mảng số 
 
 **Đầu vào**:
 Nhập số lượng phần tử của mảng: 4
+
 Nhập các giá trị cho mảng:
+
 Phần tử thứ 1: 1
+
 Phần tử thứ 2: 2
+
 Phần tử thứ 3: 3
+
 Phần tử thứ 4: 4
 
 **Đầu ra**:
